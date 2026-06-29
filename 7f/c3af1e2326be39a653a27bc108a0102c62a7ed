@@ -1,0 +1,23 @@
+src/run/handlers/server-streaming-repro.test.ts
+  s_bc65b322fd6b14::t_e4241142eebfaf 173-195
+  s_bc65b322fd6b14::t_b52f6939c8f355 156-160,162-171
+  s_bc65b322fd6b14::t_cffa39b2e13032 126-127
+  s_bc65b322fd6b14::t_998a922565be2f 1-80,92-96,104-106,108,110-125,128-155,161,172,196
+  s_bc65b322fd6b14::t_e26dcc1d9fa6aa 81-91,97-103,107,109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "7fc3af1e2326be39a653a27bc108a0102c62a7ed",
+  "prompts": {},
+  "sessions": {
+    "s_bc65b322fd6b14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c08173e3-28d6-4da2-9eb9-5ba6f21a12bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Mathias Biilmann <info@mathias-biilmann.net>"
+    }
+  }
+}
