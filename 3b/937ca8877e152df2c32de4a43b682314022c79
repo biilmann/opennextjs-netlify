@@ -1,0 +1,24 @@
+src/run/handlers/server.ts
+  s_bc65b322fd6b14::t_054e69f9321ee0 221-225,227-230
+  s_bc65b322fd6b14::t_1177f11c88b1bc 110-114,117
+  s_bc65b322fd6b14::t_74c19dd2e82422 103-104,108-109,115-116,118-123
+  s_bc65b322fd6b14::t_3d68f7a718dd5c 203,206-220,226,231-265
+src/run/handlers/server-streaming-termination.test.ts
+  s_bc65b322fd6b14::t_5d8364770ef267 1-243
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "3b937ca8877e152df2c32de4a43b682314022c79",
+  "prompts": {},
+  "sessions": {
+    "s_bc65b322fd6b14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c08173e3-28d6-4da2-9eb9-5ba6f21a12bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Mathias Biilmann <info@mathias-biilmann.net>"
+    }
+  }
+}
