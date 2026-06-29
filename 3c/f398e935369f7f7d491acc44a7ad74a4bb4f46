@@ -1,0 +1,26 @@
+src/run/handlers/server-streaming-repro.test.ts
+  s_bc65b322fd6b14::t_0d24c7f4a41195 73,97-99
+  s_bc65b322fd6b14::t_9fa38646eb39ea 11-12,16-18,20-22,26-36,39,58-59,69-72,74-77,82-85,88-89,92-96,100-131,140-142,151-153,188,193-195,198,203,209-215,218,223,227-228,231,234-238
+  s_bc65b322fd6b14::t_d71574536eecd4 232-233
+src/run/handlers/server.ts
+  s_bc65b322fd6b14::t_1177f11c88b1bc 110-114,117
+  s_bc65b322fd6b14::t_74c19dd2e82422 103-104,108-109,115-116,118-123
+  s_bc65b322fd6b14::t_054e69f9321ee0 221-225,227-230
+  s_bc65b322fd6b14::t_3d68f7a718dd5c 203,206-220,226,231-265
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "3cf398e935369f7f7d491acc44a7ad74a4bb4f46",
+  "prompts": {},
+  "sessions": {
+    "s_bc65b322fd6b14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c08173e3-28d6-4da2-9eb9-5ba6f21a12bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Mathias Biilmann <info@mathias-biilmann.net>"
+    }
+  }
+}
